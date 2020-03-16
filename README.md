@@ -12,7 +12,7 @@ Military jobs can be difficult to transfer into the civilian world. However, tho
 - Team work
 - Strong work ethic
 
-Though you may be feeling incredible pressure right now to obtain a job, you must take good care of yourself to succeed at this goal.  From time to time, everyone experiences situations that affect their general well-being. Flatiron School recognizes this and as a result, has introduced a [Student Assistance Program](global.resourcesforyourlife.com)(loggin code: flatiron) to help all students be more successful at meeting their responsibilities at home and school, whether you are learning online or on campus.  
+Though you may be feeling incredible pressure right now to obtain a job, you must take good care of yourself to succeed at this goal.  From time to time, everyone experiences situations that affect their general well-being. Flatiron School recognizes this and as a result, has introduced a **[Student Assistance Program](global.resourcesforyourlife.com) (loggin code: flatiron)** to help all students be more successful at meeting their responsibilities at home and school, whether you are learning online or on campus.  
 
 Key benefits include: 
 - No cost to you - the service is paid for by Flatiron School.
@@ -25,7 +25,7 @@ The Student Assistance Program can provide support on a wide range of issues, in
 couples’ support, managing stress & life changes, surviving the loss of a loved one, improving esteem and confidence
 and referrals to local financial or legal resources. These benefits and services are available to you throughout your student journey, from acceptance into the school until you complete and/or exit career services or you withdraw from the school.   
 
-In addition to contacting the service via telephone, you can also access information and support via texting, emailing and online chat. The [Resources For Your Life website](global.resourcesforyourlife.com) contains additional information about how to contact the service.  **The loggin code is: flatiron** 
+In addition to contacting the service via telephone, you can also access information and support via texting, emailing and online chat. 
 
 **Resources for Veterans**
 
