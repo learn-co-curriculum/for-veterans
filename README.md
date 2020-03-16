@@ -12,7 +12,7 @@ Military jobs can be difficult to transfer into the civilian world. However, tho
 - Team work
 - Strong work ethic
 
-Though you may be feeling incredible pressure right now to obtain a job, you must take good care of yourself to succeed at this goal.  From time to time, everyone experiences situations that affect their general well-being. Flatiron School recognizes this and as a result, has introduced a **[Student Assistance Program](global.resourcesforyourlife.com) (loggin code: flatiron)** to help all students be more successful at meeting their responsibilities at home and school, whether you are learning online or on campus.  
+Though you may be feeling incredible pressure right now to obtain a job, you must take good care of yourself to succeed at this goal.  From time to time, everyone experiences situations that affect their general well-being. Flatiron School recognizes this and as a result, has introduced a [Student Assistance Program](global.resourcesforyourlife.com) **(loggin code: flatiron)** to help all students be more successful at meeting their responsibilities at home and school, whether you are learning online or on campus.  
 
 Key benefits include: 
 - No cost to you - the service is paid for by Flatiron School.
@@ -29,7 +29,7 @@ In addition to contacting the service via telephone, you can also access informa
 
 **Resources for Veterans**
 
-- [G.I. Jobs Mother of all Transition Guides] (
+- [G.I. Jobs Mother of all Transition Guides](https://drive.google.com/file/d/1AMK6Xmn0xfLJn75wqj4galAnBW_B7zGd/view?usp=sharing)
 - Slack Community Group: [VeteranSec](https://veteransec.com/slack) 
 - [Article: Why Veterans and Civilian Employers have so much trouble communicating](https://www.entrepreneur.com/article/242537)
 - [Guide on writing a military to civilian resume](https://zety.com/blog/military-resume)
