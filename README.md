@@ -12,7 +12,7 @@ Military jobs can be difficult to transfer into the civilian world. However, tho
 - Team work
 - Strong work ethic
 
-Though you may be feeling incredible pressure right now to obtain a job, you must take good care of yourself to succeed at this goal.  From time to time, everyone experiences situations that affect their general well-being. Flatiron School recognizes this and as a result, has introduced a [Student Assistance Program](https://global.resourcesforyourlife.com) **(loggin code: flatiron)** to help all students be more successful at meeting their responsibilities at home and school, whether you are learning online or on campus.  
+Though you may be feeling incredible pressure right now to obtain a job, you must take good care of yourself to succeed at this goal.  From time to time, everyone experiences situations that affect their general well-being. Flatiron School recognizes this and as a result, has introduced a Student Assistance Program - https://global.resourcesforyourlife.com/ code:  flatiron - to help all students be more successful at meeting their responsibilities at home and school, whether you are learning online or on campus.  
 
 Key benefits include: 
 - No cost to you - the service is paid for by Flatiron School.
